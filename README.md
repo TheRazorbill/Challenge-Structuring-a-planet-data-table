@@ -27,3 +27,7 @@ O objetivo é estruturar dados brutos de forma acessível e correta, utilizando 
 * `blank-template.html`: Onde a tabela HTML foi construída.
 * `planets-data.txt`: Os dados brutos usados para preencher a tabela.
 * `minimal-table.css`: O arquivo de estilos básico para a tabela.
+
+
+
+<img width="1916" height="678" alt="image" src="https://github.com/user-attachments/assets/02798dce-760d-4e09-98c9-573a2b0b1072" />
